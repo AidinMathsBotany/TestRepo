@@ -1,1 +1,7 @@
 This is new document
+
+I'm now adding 2nd line.
+
+I'm now adding 3rd line.
+
+Cheers
